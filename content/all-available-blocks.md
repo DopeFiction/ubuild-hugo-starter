@@ -4,25 +4,11 @@ draft = true
 layout = "blocks"
 title = "All Available Blocks."
 [[page_sections]]
-block = "header-1"
-template = "navigation-header"
-logo = "/uploads/2018/06/21/forestry-full.svg"
-[[page_sections.navigation]]
-link_text = "Home"
-link_url = "/"
-[[page_sections.navigation]]
-link_text = "About"
-link_url = "/"
-[[page_sections.navigation]]
-link_text = "GitHub"
-link_url = "https://github.com"
-open_in_new_tab = true
-[[page_sections]]
 block = "header-2"
 logo = "/uploads/2018/06/21/forestry-full.svg"
 template = "navigation-header-w-button"
 [page_sections.cta]
-link_text = "Download?"
+link_text = "TEST"
 link_url = "#"
 [[page_sections.navigation]]
 link_text = "Home"
@@ -33,6 +19,20 @@ link_url = "#"
 [[page_sections.navigation]]
 link_text = "Hugo Docs"
 link_url = "http://gohugo.io/documentation/"
+open_in_new_tab = true
+[[page_sections]]
+block = "header-1"
+logo = "/uploads/2018/06/21/forestry-full.svg"
+template = "navigation-header"
+[[page_sections.navigation]]
+link_text = "Home"
+link_url = "/"
+[[page_sections.navigation]]
+link_text = "About"
+link_url = "/"
+[[page_sections.navigation]]
+link_text = "GitHub"
+link_url = "https://github.com"
 open_in_new_tab = true
 [[page_sections]]
 block = "header-3"
@@ -122,10 +122,10 @@ content = "Just a footer"
 template = "simple-footer"
 [[page_sections]]
 block = "footer-2"
-image = "/uploads/2018/06/21/forestry-symbol.svg"
 col_2 = "Some content"
 col_3 = "Some more content"
 col_4 = "Now I'm content"
+image = "/uploads/2018/06/21/forestry-symbol.svg"
 template = "4-column-footer"
 
 +++
