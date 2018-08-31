@@ -1,5 +1,5 @@
 ---
-label: page-builder
+label: Page builder
 hide_body: true
 is_partial: false
 fields:
@@ -34,4 +34,5 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
+- content/_index.md
 - content/all-available-blocks.md
