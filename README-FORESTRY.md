@@ -13,7 +13,7 @@ Without any page sections, your uBuild page is a blank slate! You will likely wa
 ## Need Help?
 Drop me a line if you're having trouble.
 
-<form target="_blank" method="POST" action="https://formspree.io/your-email@example.com">
+<form style="max-width: 40em;" target="_blank" method="POST" action="https://formspree.io/your-email@example.com">
   <div class="form-field">
     <label>Name</label>
     <input name="name" type="text" />
